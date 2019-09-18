@@ -1,0 +1,27 @@
+{
+  "name": "kobomaps-orig",
+  "version": "1.0.0",
+  "description": "------------------------------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobotoolbox/kobomaps-orig.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kobotoolbox/kobomaps-orig/issues"
+  },
+  "homepage": "https://github.com/kobotoolbox/kobomaps-orig#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-loader": "^8.0.5",
+    "format-number": "^3.0.0",
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2"
+  }
+}
