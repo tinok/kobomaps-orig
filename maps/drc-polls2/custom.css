@@ -1,0 +1,31 @@
+#nationalaveragediv {display
+	:none!important;
+}
+
+div#nationalIndicatorChart {
+  display: none!important;
+}
+
+#kmapTitle {
+	display: none;
+}
+
+#tabs {
+    right: 62px;
+    top: 0px;
+}
+
+div#maplinks {
+    top: 0px;
+    height: 100%;
+}
+div#maplinks {
+	top:0!important;
+	height:100%!important;
+}
+/*#topbar {
+	top:130px;
+	right:30px;
+	bottom:initial!important;
+	left:initial!important;
+}*/
